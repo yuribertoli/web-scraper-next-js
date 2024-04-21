@@ -1,0 +1,11 @@
+{
+    "routes": {
+        "homePage": "home page",
+        "contacts": "contacts",
+        "sites": "sites",
+        "admin": "admin",
+        "login": "login",
+        "logout": "logout",
+        "register": "register"
+    }
+}

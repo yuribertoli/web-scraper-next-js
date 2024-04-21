@@ -1,0 +1,83 @@
+:root {
+    --aquaBlue: #4ca1af;
+    --black: #000000;
+    --blackCoffee: #190a05;
+    --blue: #3673fd;
+    --caramel: #FFD194;
+    --complexGreen: rgba(80, 131, 73, 1);
+    --complexLightGreen: rgba(140, 209, 131, 1);
+    --complexPaleGreen: rgba(178, 231, 170, 1);
+    --complexSoftGreen: rgba(144, 213, 135, 1);
+    --darkBlue: #005aa7;
+    --darkForest: rgba(75, 118, 69, 1);
+    --darkGreen: #5a3f37;
+    --darkGreenBlue: #3E5151;
+    --darkRed: #870000;
+    --darkSlate: #2c3e50;
+    --deepBlueGray: #302b63;
+    --deepNavy: rgba(2, 83, 185, 1);
+    --deepOcean: #243b55;
+    --deepPurple: #8e2de2;
+    --deepRed: #ee4758;
+    --electricBlue: #4a00e0;
+    --festiveRed: #b20a2c;
+    --lavender: #d3cce3;
+    --lightBlue: #00b4db;
+    --lightGray: #f1f1f1;
+    --lightGreen: #d4fc79;
+    --lightPurple: #9796f0;
+    --lightSand: #DECBA4;
+    --lightSky: #bfe9ff;
+    --lightSkyBlue: #83a4d4;
+    --lightTeal: #8ddad5;
+    --lightYellow: #fbd786;
+    --magenta: #d64c7f;
+    --mango: #e5ad50;
+    --mangoYellow: #f8b500;
+    --midGreen: #96e6a1;
+    --midnight: #0f0c29;
+    --midtoneGreen: #2c7744;
+    --milanoRed: #b90909;
+    --oceanBlue: #0083b0;
+    --offWhite: #e9e4f0;
+    --offWhiteYellow: #ffefba;
+    --paleGreen: #c6ffdd;
+    --paleRed: #ff6e7f;
+    --pureWhite: #fffde4;
+    --royalBlue: #141e30;
+    --salmonPink: #f7797d;
+    --sandBrown: #D1913C;
+    --shadowGray: #24243e;
+    --silver: #cccccc;
+    --skyBlue: #b6fbff;
+    --softPink: #fbc7d4;
+    --stellarBlue: rgba(4, 189, 228, 1);
+    --sunriseOrange: #f09819;
+    --sunriseRed: #ff512f;
+    --teal: #2ebf91;
+    --tealGreen: #00cdac;
+    --transparentBlue: rgba(192, 229, 246, 1);
+    --transparentDeepBlue: rgba(110, 123, 251, 1);
+    --transparentGreen: rgba(173, 252, 234, 1);
+    --transparentSea: rgba(156, 252, 248, 1);
+    --tree: #0f8a0d;
+    --violet: #8360c3;
+    --white: #ffffff;
+    --yellowTone: #fceabb;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    color: var(--white);
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
